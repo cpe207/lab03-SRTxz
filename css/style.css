@@ -1,0 +1,23 @@
+.bgcolornav{
+    background-color: aqua;
+}
+.fontnav{
+    font-family: Prompt;
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+}
+.font{
+    font-family: Prompt;
+}
+
+.rounded-all {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.rounded-left {
+border-top-left-radius: 15px;
+border-bottom-left-radius: 15px;
+}
